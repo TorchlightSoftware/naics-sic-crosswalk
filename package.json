@@ -1,6 +1,6 @@
 {
   "name": "naics-sic-crosswalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NAICS to SIC conversion table in JSON format.",
   "main": "naics-sic-crosswalk.json",
   "scripts": {
@@ -12,5 +12,8 @@
     "crosswalk"
   ],
   "author": "q@bitmage.net",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
 }
