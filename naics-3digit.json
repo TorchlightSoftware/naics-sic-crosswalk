@@ -1,0 +1,398 @@
+[
+  {
+    "naics": "111",
+    "naicsDescription": "Crop Production"
+  },
+  {
+    "naics": "112",
+    "naicsDescription": "Animal Production and Aquaculture"
+  },
+  {
+    "naics": "113",
+    "naicsDescription": "Forestry and Logging"
+  },
+  {
+    "naics": "114",
+    "naicsDescription": "Fishing, Hunting and Trapping"
+  },
+  {
+    "naics": "115",
+    "naicsDescription": "Support Activities for Agriculture and Forestry"
+  },
+  {
+    "naics": "211",
+    "naicsDescription": "Oil and Gas Extraction"
+  },
+  {
+    "naics": "212",
+    "naicsDescription": "Mining (except Oil and Gas)"
+  },
+  {
+    "naics": "213",
+    "naicsDescription": "Support Activities for Mining"
+  },
+  {
+    "naics": "221",
+    "naicsDescription": "Utilities"
+  },
+  {
+    "naics": "236",
+    "naicsDescription": "Construction of Buildings"
+  },
+  {
+    "naics": "237",
+    "naicsDescription": "Heavy and Civil Engineering Construction"
+  },
+  {
+    "naics": "238",
+    "naicsDescription": "Specialty Trade Contractors"
+  },
+  {
+    "naics": "311",
+    "naicsDescription": "Food Manufacturing"
+  },
+  {
+    "naics": "312",
+    "naicsDescription": "Beverage and Tobacco Product Manufacturing"
+  },
+  {
+    "naics": "313",
+    "naicsDescription": "Textile Mills"
+  },
+  {
+    "naics": "314",
+    "naicsDescription": "Textile Product Mills"
+  },
+  {
+    "naics": "315",
+    "naicsDescription": "Apparel Manufacturing"
+  },
+  {
+    "naics": "316",
+    "naicsDescription": "Leather and Allied Product Manufacturing"
+  },
+  {
+    "naics": "321",
+    "naicsDescription": "Wood Product Manufacturing"
+  },
+  {
+    "naics": "322",
+    "naicsDescription": "Paper Manufacturing"
+  },
+  {
+    "naics": "323",
+    "naicsDescription": "Printing and Related Support Activities"
+  },
+  {
+    "naics": "324",
+    "naicsDescription": "Petroleum and Coal Products Manufacturing"
+  },
+  {
+    "naics": "325",
+    "naicsDescription": "Chemical Manufacturing"
+  },
+  {
+    "naics": "326",
+    "naicsDescription": "Plastics and Rubber Products Manufacturing"
+  },
+  {
+    "naics": "327",
+    "naicsDescription": "Nonmetallic Mineral Product Manufacturing"
+  },
+  {
+    "naics": "331",
+    "naicsDescription": "Primary Metal Manufacturing"
+  },
+  {
+    "naics": "332",
+    "naicsDescription": "Fabricated Metal Product Manufacturing"
+  },
+  {
+    "naics": "333",
+    "naicsDescription": "Machinery Manufacturing"
+  },
+  {
+    "naics": "334",
+    "naicsDescription": "Computer and Electronic Product Manufacturing"
+  },
+  {
+    "naics": "335",
+    "naicsDescription": "Electrical Equipment, Appliance, and Component Manufacturing"
+  },
+  {
+    "naics": "336",
+    "naicsDescription": "Transportation Equipment Manufacturing"
+  },
+  {
+    "naics": "337",
+    "naicsDescription": "Furniture and Related Product Manufacturing"
+  },
+  {
+    "naics": "339",
+    "naicsDescription": "Miscellaneous Manufacturing"
+  },
+  {
+    "naics": "423",
+    "naicsDescription": "Merchant Wholesalers, Durable Goods"
+  },
+  {
+    "naics": "424",
+    "naicsDescription": "Merchant Wholesalers, Nondurable Goods"
+  },
+  {
+    "naics": "425",
+    "naicsDescription": "Wholesale Electronic Markets and Agents and Brokers"
+  },
+  {
+    "naics": "441",
+    "naicsDescription": "Motor Vehicle and Parts Dealers"
+  },
+  {
+    "naics": "442",
+    "naicsDescription": "Furniture and Home Furnishings Stores"
+  },
+  {
+    "naics": "443",
+    "naicsDescription": "Electronics and Appliance Stores"
+  },
+  {
+    "naics": "444",
+    "naicsDescription": "Building Material and Garden Equipment and Supplies Dealers"
+  },
+  {
+    "naics": "445",
+    "naicsDescription": "Food and Beverage Stores"
+  },
+  {
+    "naics": "446",
+    "naicsDescription": "Health and Personal Care Stores"
+  },
+  {
+    "naics": "447",
+    "naicsDescription": "Gasoline Stations"
+  },
+  {
+    "naics": "448",
+    "naicsDescription": "Clothing and Clothing Accessories Stores"
+  },
+  {
+    "naics": "451",
+    "naicsDescription": "Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+  },
+  {
+    "naics": "452",
+    "naicsDescription": "General Merchandise Stores"
+  },
+  {
+    "naics": "453",
+    "naicsDescription": "Miscellaneous Store Retailers"
+  },
+  {
+    "naics": "454",
+    "naicsDescription": "Nonstore Retailers"
+  },
+  {
+    "naics": "481",
+    "naicsDescription": "Air Transportation"
+  },
+  {
+    "naics": "482",
+    "naicsDescription": "Rail Transportation"
+  },
+  {
+    "naics": "483",
+    "naicsDescription": "Water Transportation"
+  },
+  {
+    "naics": "484",
+    "naicsDescription": "Truck Transportation"
+  },
+  {
+    "naics": "485",
+    "naicsDescription": "Transit and Ground Passenger Transportation"
+  },
+  {
+    "naics": "486",
+    "naicsDescription": "Pipeline Transportation"
+  },
+  {
+    "naics": "487",
+    "naicsDescription": "Scenic and Sightseeing Transportation"
+  },
+  {
+    "naics": "488",
+    "naicsDescription": "Support Activities for Transportation"
+  },
+  {
+    "naics": "491",
+    "naicsDescription": "Postal Service"
+  },
+  {
+    "naics": "492",
+    "naicsDescription": "Couriers and Messengers"
+  },
+  {
+    "naics": "493",
+    "naicsDescription": "Warehousing and Storage"
+  },
+  {
+    "naics": "511",
+    "naicsDescription": "Publishing Industries (except Internet)"
+  },
+  {
+    "naics": "512",
+    "naicsDescription": "Motion Picture and Sound Recording Industries"
+  },
+  {
+    "naics": "515",
+    "naicsDescription": "Broadcasting (except Internet)"
+  },
+  {
+    "naics": "517",
+    "naicsDescription": "Telecommunications"
+  },
+  {
+    "naics": "518",
+    "naicsDescription": "Data Processing, Hosting, and Related Services"
+  },
+  {
+    "naics": "519",
+    "naicsDescription": "Other Information Services"
+  },
+  {
+    "naics": "521",
+    "naicsDescription": "Monetary Authorities-Central Bank"
+  },
+  {
+    "naics": "522",
+    "naicsDescription": "Credit Intermediation and Related Activities"
+  },
+  {
+    "naics": "523",
+    "naicsDescription": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities"
+  },
+  {
+    "naics": "524",
+    "naicsDescription": "Insurance Carriers and Related Activities"
+  },
+  {
+    "naics": "525",
+    "naicsDescription": "Funds, Trusts, and Other Financial Vehicles Funds"
+  },
+  {
+    "naics": "531",
+    "naicsDescription": "Real Estate"
+  },
+  {
+    "naics": "532",
+    "naicsDescription": "Rental and Leasing Services"
+  },
+  {
+    "naics": "533",
+    "naicsDescription": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+  },
+  {
+    "naics": "541",
+    "naicsDescription": "Professional, Scientific, and Technical Services"
+  },
+  {
+    "naics": "551",
+    "naicsDescription": "Management of Companies and Enterprises"
+  },
+  {
+    "naics": "561",
+    "naicsDescription": "Administrative and Support Services"
+  },
+  {
+    "naics": "562",
+    "naicsDescription": "Waste Management and Remediation Services"
+  },
+  {
+    "naics": "611",
+    "naicsDescription": "Educational Services"
+  },
+  {
+    "naics": "621",
+    "naicsDescription": "Ambulatory Health Care Services"
+  },
+  {
+    "naics": "622",
+    "naicsDescription": "Hospitals"
+  },
+  {
+    "naics": "623",
+    "naicsDescription": "Nursing and Residential Care Facilities"
+  },
+  {
+    "naics": "624",
+    "naicsDescription": "Social Assistance"
+  },
+  {
+    "naics": "711",
+    "naicsDescription": "Performing Arts, Spectator Sports, and Related Industries"
+  },
+  {
+    "naics": "712",
+    "naicsDescription": "Museums, Historical Sites, and Similar Institutions"
+  },
+  {
+    "naics": "713",
+    "naicsDescription": "Amusement, Gambling, and Recreation Industries"
+  },
+  {
+    "naics": "721",
+    "naicsDescription": "Accommodation"
+  },
+  {
+    "naics": "722",
+    "naicsDescription": "Food Services and Drinking Places"
+  },
+  {
+    "naics": "811",
+    "naicsDescription": "Repair and Maintenance"
+  },
+  {
+    "naics": "812",
+    "naicsDescription": "Personal and Laundry Services"
+  },
+  {
+    "naics": "813",
+    "naicsDescription": "Religious, Grantmaking, Civic, Professional, and Similar Organizations"
+  },
+  {
+    "naics": "814",
+    "naicsDescription": "Private Households"
+  },
+  {
+    "naics": "921",
+    "naicsDescription": "Executive, Legislative, and Other General Government Support"
+  },
+  {
+    "naics": "922",
+    "naicsDescription": "Justice, Public Order, and Safety Activities"
+  },
+  {
+    "naics": "923",
+    "naicsDescription": "Administration of Human Resource Programs"
+  },
+  {
+    "naics": "924",
+    "naicsDescription": "Administration of Environmental Quality Programs"
+  },
+  {
+    "naics": "925",
+    "naicsDescription": "Administration of Housing Programs, Urban Planning, and Community Development"
+  },
+  {
+    "naics": "926",
+    "naicsDescription": "Administration of Economic Programs"
+  },
+  {
+    "naics": "927",
+    "naicsDescription": "Space Research and Technology"
+  },
+  {
+    "naics": "928",
+    "naicsDescription": "National Security and International Affairs"
+  }
+]
